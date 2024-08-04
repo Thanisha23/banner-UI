@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Summer Sale",
+      "description": "Get 50% off on all summer items!",
+      "cta": "Shop Now",
+      "image": "/banner-2.jpg",
+      "backgroundColor": "#FFD700"
+    },
+    {
+      "id": 2,
+      "title": "New Arrivals",
+      "description": "Check out our latest collection!",
+      "cta": "Explore",
+      "image": "/ricebowl.jpg",
+      "backgroundColor": "#87CEEB"
+    },
+    {
+        "id": 3,
+        "title": "Summer Sale",
+        "description": "Get 50% off on all summer items!",
+        "cta": "Shop Now",
+        "image": "/banner-1.jpg",
+        "backgroundColor": "#FFD700"
+      },
+      {
+        "id": 4,
+        "title": "New Arrivals",
+        "description": "Check out our latest collection!",
+        "cta": "Explore",
+        "image": "/ricebowl.jpg",
+        "backgroundColor": "#87CEEB"
+      },
+      {
+        "id": 5,
+        "title": "Summer Sale",
+        "description": "Get 50% off on all summer items!",
+        "cta": "Shop Now",
+        "image": "/cake.jpg",
+        "backgroundColor": "#FFD700"
+      },
+      {
+        "id": 7,
+        "title": "New Arrivals",
+        "description": "Check out our latest collection!",
+        "cta": "Explore",
+        "image": "/cake.jpg",
+        "backgroundColor": "#87CEEB"
+      },
+      {
+        "id": 8,
+        "title": "Summer Sale",
+        "description": "Get 50% off on all summer items!",
+        "cta": "Shop Now",
+        "image": "/ricebowl.jpg",
+        "backgroundColor": "#FFD700"
+      },
+      {
+        "id": 9,
+        "title": "New Arrivals",
+        "description": "Check out our latest collection!",
+        "cta": "Explore",
+        "image": "/ricebowl.jpg",
+        "backgroundColor": "#87CEEB"
+      }
+  ]
