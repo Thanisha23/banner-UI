@@ -16,7 +16,7 @@ const AdBanner:React.FC<AdBannerProps> = ({
 }) => {
     return (
         <div 
-          className="mx-auto relative overflow-hidden w-[80%] md:w-full h-[30rem] rounded-lg shadow-lg transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
+          className="mx-auto relative overflow-hidden w-[80%] md:w-full sm:h-[30rem] h-[25rem] rounded-lg shadow-lg transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
           style={{ 
             backgroundImage: `url(${image})`,
             backgroundSize: 'cover',
