@@ -14,7 +14,7 @@ export default function Home() {
       
 
       <div className={`${spicy_rice.className} text-5xl md:text-6xl lg:text-8xl z-50 text-center pb-7`}>GrowEasyy - AI Banners</div>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="max-w-7xl mx-auto px-0 sm:px-6 lg:px-8">
   <div className="relative bg-white bg-opacity-30 rounded-xl shadow-2xl p-4 sm:p-6 lg:p-10 w-full sm:w-[90%] lg:w-[80%] mx-auto">
     <div className="max-w-3xl mx-auto">
       <input 
